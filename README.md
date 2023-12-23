@@ -3,7 +3,7 @@ Daily newsletter mail sending PHP script using GNews API and PHPMailer for cPane
 
 ### 1. Create Folder and Add Files
 
-Create a folder named "scripts" in cPanel and add the files from the repository to the created folder
+Create a folder named `scripts` in cPanel and add the files from the repository to the created folder
 
 ### 2. Replace Required Fields
 
